@@ -10,10 +10,8 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on Carat App
-- 🌱 I’m currently learning Architecture design
+- 🌱 I’m currently learning RoR
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with life
 - 💬 Ask me about Mobile Development, BE and FE.
 - 📫 How to reach me: By [**Email**](mailto:recticode@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/aligmohammad/).
 - 😄 Pronouns: Aloush, Loush, Eli, Ali
