@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/0dayNinja/0dayNinja/blob/main/github.gif" width=200>
     <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxdevil&&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxdevil&&theme=solarized_dark&layout=compact">
   <br>
 
 </p>
