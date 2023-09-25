@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning System Design
 - 💬 Ask me about Mobile Development, BE and FE.
 - 📫 How to reach me: By [**Email**](mailto:recticode@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/aligmohammad/).
-- 😄 Pronouns: Aloush, Loush, Eli, Ali
+- 😄 You can call me: Aloush (Preferred), Loush, Eli, Ali
 - ⚡ Fun fact: One of my favorite things to do is UI design in ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white).
 
 <p align="center">
