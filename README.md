@@ -13,5 +13,5 @@ I'm a Software engineer that likes to build things <i>(or maybe break them)</i>.
 - 📫 You can reach me through [**LinkedIn**](https://www.linkedin.com/in/aligmohammad/).
 
 <p align="center">
-  <img src="https://github.com/LinuxDevil/LinuxDevil/blob/main/smokie.gif" alt="Demo Animated GIF">
+  <img src="https://github.com/LinuxDevil/LinuxDevil/blob/main/smokielousho.gif" alt="Demo Animated GIF">
 </p>
